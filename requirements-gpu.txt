@@ -1,0 +1,14 @@
+astunparse==1.6.3
+expecttest==0.2.1
+hypothesis==6.111.2
+intel-cmplr-lib-ur==2024.2.1
+intel-openmp==2024.2.1
+lintrunner==0.12.5
+mkl-include==2024.2.1
+mkl-static==2024.2.1
+ninja==1.11.1.1
+optree==0.12.1
+pytorch-triton==3.0.0+dedb7bdf33
+sympy==1.13.1
+tbb==2021.13.1
+types-dataclasses==0.6.6
